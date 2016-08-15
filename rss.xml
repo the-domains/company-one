@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Company One]]></title>
+        <description><![CDATA[Company One]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 18:47:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cereal - Travel & Style Magazine]]></title>
+            <description><![CDATA[<article><h1>Cereal - Travel & Style Magazine</h1><p>Cereal is a bi-annual magazine about travel and style. Exclusive stories, features, film, playlists and online travel guides.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14f4a8ae5ff5f916b8c06dc3a964cf69/noop.jpg?input=http%3A%2F%2Freadcereal.com%2Fwp-content%2Fuploads%2F2013%2F06%2Fnotebooks-homepage.jpg"></article>]]></description>
+            <link>http://readcereal.com/</link>
+            <guid isPermaLink="false">b54c9d54-10c1-4e03-bbbb-5165dbbac0bb</guid>
+            <pubDate>Mon, 15 Aug 2016 18:47:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
