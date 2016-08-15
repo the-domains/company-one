@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Company One]]></title>
         <description><![CDATA[Company One]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/company-one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 18:47:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 18:50:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/company-one/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Byam Shaw Art Shop]]></title>
+            <description><![CDATA[<article><h1>Byam Shaw Art Shop</h1><p>Write a few sentences to tell people about your store (the kind of products you sell, your mission, etc). You can also add images and videos to help tell your story and generate more interest in your shop. To edit the content on this page, go to the Pages section of your Shopify admin.</p><img src="http://cdn.shopify.com/s/files/1/1269/8387/t/2/assets/slide_1_1024x1024.jpg?3174048143769776484"></article>]]></description>
+            <link>https://shop.byamshawart.com/</link>
+            <guid isPermaLink="false">5d31d764-1f0a-4c34-9793-2c1bc48de0dd</guid>
+            <pubDate>Mon, 15 Aug 2016 18:50:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cereal - Travel & Style Magazine]]></title>
             <description><![CDATA[<article><h1>Cereal - Travel & Style Magazine</h1><p>Cereal is a bi-annual magazine about travel and style. Exclusive stories, features, film, playlists and online travel guides.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14f4a8ae5ff5f916b8c06dc3a964cf69/noop.jpg?input=http%3A%2F%2Freadcereal.com%2Fwp-content%2Fuploads%2F2013%2F06%2Fnotebooks-homepage.jpg"></article>]]></description>
